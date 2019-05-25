@@ -5,8 +5,8 @@
 A Universitat Rovira i Virgili's third year project involving various programming lenguages and different subject knowledge. It is an operating system for NDS.
 
 For more information please, feel free to check the following files, containing the instructions for making this project:
-* [Manual Fase 1 - Spanish]()
-* [Manual Fase 2 - Spanish]()
+* [Manual Fase 1 - Spanish](mp1.pdf)
+* [Manual Fase 2 - Spanish](mp2.pdf)
 
 ## Software Used
 
